@@ -8,5 +8,6 @@ You can easily remove students from your classroom following these instructions:
 Go to MEMBERS section in your plan main page
 Scroll down until you find the list of active members
 Select the students you wish to delete
-Click on DELETE button as shown in the image below
+Click on DELETE button as shown in the image below.
+
 ![image delete](/assets/img/HowcanIdeletestudentsfrommycurrentplan/1.png)
