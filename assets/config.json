@@ -1,0 +1,32 @@
+{
+  "sections":{
+    "MyArduinoAccount": "360003210700",
+    "ArduinoSoftware": "360003256719",
+    "WhatsArduino": "360003198320",
+    "ArduinoLogoTrademark": "360003242899",
+    "Installation": "360003840514",
+    "Compilation": "360003830594",
+    "Upload": "360003198300",
+    "MKRFOX1200": "360003888233",
+    "MKR1000": "360003840954",
+    "MKRMotorCarrier": "360003888193",
+    "ArduinoYUN": "360003888113",
+    "Arduino101": "360003888093",
+    "ArduinoUNO": "360003840874",
+    "MKRVidor4000": "360003840854",
+    "ArduinoNano": "360003840814",
+    "ArduinoSIMCard": "360003184160",
+    "ArduinoChromeapp": "360003184140",
+    "ArduinoCreate": "360003184120",
+    "ArduinoIoTCloud": "360003228099",
+    "ArduinoAccounts": "360003184100",
+    "EducationGeneral": "360003251359",
+    "ArduinoScienceKit": "360003251299",
+    "ArduinoEngineeringKit": "360003251279",
+    "CTCGo": "360003205800",
+    "CTC101UNO": "360003249039",
+    "OnlineStore": "360003227259",
+    "Shipping": "360003227239",
+    "Invoicing": "360003183100"
+  }
+}
