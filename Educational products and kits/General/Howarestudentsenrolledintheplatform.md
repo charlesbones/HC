@@ -19,5 +19,3 @@ An invitation email will shortly be sent to the students inboxes containing a li
 [Engineering Kit](https://create.arduino.cc/edu/courses/course/)
 [Science Kit](https://physics-lab.arduino.cc/)
 [CTC 101](https://create.arduino.cc/ctc/101/)
-
-extra line
