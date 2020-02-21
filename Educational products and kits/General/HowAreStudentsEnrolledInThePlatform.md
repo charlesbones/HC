@@ -15,7 +15,9 @@ Under students, press > ADD STUDENTS.
 Enter the students email addresses in the text field, press ADD, then INVITE.
 
 An invitation email will shortly be sent to the students inboxes containing a link they need to follow in order to sign up or log in if they already have accounts tied to that email. After signing up or logging in they will have access to the platform. Find the links to the different platforms here:
-[CTC GO!](https://ctc-go.arduino.cc/)
-[Engineering Kit](https://create.arduino.cc/edu/courses/course/)
-[Science Kit](https://physics-lab.arduino.cc/)
-[CTC 101](https://create.arduino.cc/ctc/101/)
+
+* [CTC GO!](https://ctc-go.arduino.cc/)
+* [Engineering Kit](https://create.arduino.cc/edu/courses/course/)
+* [Science Kit](https://physics-lab.arduino.cc/)
+* [CTC 101](https://create.arduino.cc/ctc/101/)
+
