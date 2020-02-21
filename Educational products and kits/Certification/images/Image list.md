@@ -1,1 +1,1 @@
-![Bulk Purchase](/images/CertTble.png)
+![Bulk Purchase](CertTble.png)
