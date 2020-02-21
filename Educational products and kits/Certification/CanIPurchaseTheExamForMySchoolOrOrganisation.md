@@ -12,6 +12,6 @@ Godes purchased | Price per code (USD)
 500-999| 25.50
 ≥ 1000| 24.00
 
-![Purchase Page](assets/imgs/CanIPurchaseTheExamForMySchoolOrOrganisation/1.png "Purchase Page")
+![Purchase Page](/assets/imgs/CanIPurchaseTheExamForMySchoolOrOrganisation/1.png "Purchase Page")
 
 
