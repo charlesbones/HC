@@ -2,15 +2,15 @@
 
 In Science Kit, CTC GO! and Engineering Kit: from the top menu, navigate to DASHBOARD or CLASS MANAGEMENT.
 
-![dashboard 1](../../assets/img/Howarestudentsenrolledintheplatform/1.png)
+![dashboard 1](/assets/img/Howarestudentsenrolledintheplatform/1.png)
 
 In CTC 101: from the menu to the right, navigate to Classroom Manager
 
-![dashboard 2](../../assets/img/Howarestudentsenrolledintheplatform/2.png)
+![dashboard 2](/assets/img/Howarestudentsenrolledintheplatform/2.png)
 
 Under students, press > ADD STUDENTS.
 
-![dashboard 3](../../assets/img/Howarestudentsenrolledintheplatform/3.png)
+![dashboard 3](/assets/img/Howarestudentsenrolledintheplatform/3.png)
 
 Enter the students email addresses in the text field, press ADD, then INVITE.
 
