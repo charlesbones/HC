@@ -25,28 +25,7 @@
 
 ### Step 0: step example & resources
 
-Explain the step uin a paragraph or 2, add images and/or gifs to illustrate your points.
-
-#### Here are some resources exmaples:
-
-##### Images & gifs
-![Image Title](/assets/img/WheredoIregistermykit/1.png)
-
-![Gif Title](https://media.giphy.com/media/100QWMdxQJzQC4/giphy.gif)
-
-##### Code
-
-```C++
-void test() {
- Serial.println("Hello world");
-}
-```
-
-##### Links
-With hyperlink: [here the  link text](https://example.com)
-
-Raw url: https://example.com
-
+Explain the step in a paragraph or 2, add images and/or gifs to illustrate your points.
 
 #### Checkpoint A
 
