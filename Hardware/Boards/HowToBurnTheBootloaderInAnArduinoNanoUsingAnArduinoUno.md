@@ -20,7 +20,6 @@ Please note the connections are made between Arduino UNO I/O pins and Arduino NA
 ![ICSP guide](/assets/img/HowToBurnTheBootloaderInAnArduinoNanoUsingAnArduinoUno/2.png)
 
 
-[TABLE]
 PROGRAMMER (I/O PINS) | TARGET (ICSP)
 -|-
 PIN 10 | ICSP 5
