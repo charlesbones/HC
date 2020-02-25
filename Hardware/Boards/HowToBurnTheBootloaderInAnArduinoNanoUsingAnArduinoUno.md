@@ -13,7 +13,7 @@ Detailed instructions below:
 1. **Upload ‘ArduinoISP’ sketch to Arduino UNO** Find the sketch in Arduino IDE top menu: *File > Examples > 11.Arduino ISP > ‘ArduinoISP’*. Then, disconnect the Arduino UNO board from the PC. 
 2. **Connect the boards as follows:** 
 
-![Connection](/assets/img/HowToBurnTheBootloaderInAnArduinoNanoUsingAnArduinoUno/2.png)
+![Connection](/assets/img/HowToBurnTheBootloaderInAnArduinoNanoUsingAnArduinoUno/1.png)
 
 Please note the connections are made between Arduino UNO I/O pins and Arduino NANO ICSP connector. This connector has 6 pins that are arranged as the diagram shows (placing the NANO board with ICSP connector facing up leaving the USB port on the right side). 
 
