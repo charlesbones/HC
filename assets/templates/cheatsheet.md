@@ -28,10 +28,12 @@ With hyperlink: [here the  link text](https://example.com)
 Raw url: https://example.com
 
 ## Tables
+You can use a table generator](https://www.tablesgenerator.com/markdown_tables) if that makes it easier. :)
 
-Header 1 | Headet 2
--|-
-value 11| value 12
-value 21| value 22
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 #THE END
