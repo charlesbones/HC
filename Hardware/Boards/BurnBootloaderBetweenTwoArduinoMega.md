@@ -17,7 +17,9 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 | 50 - MISO           	| 50 - MISO         	|
 | 51 - MOSI           	| 51- MOSI          	|
 | 52 - SCK            	| 52 - SCK          	|
-| 53 - SS             	| 53 - RESET PIN    	|
+| **53 - SS**          | **53 - RESET PIN** |
+
+![Mega-To-Mega](/assets/img/Hardware/boards/BurnBootloaderBetweenTwoArduinoMega/1.png)
 
 3. Open Arduino IDE
 4. Click on *Files > Examples > Arduino ISP*
