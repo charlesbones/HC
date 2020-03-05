@@ -1,4 +1,4 @@
-# What are the credintial for the Arduino SIM card
+# What are the credentials for the Arduino SIM card
 
 Here are the credentials for the Arduino Sim: 
 
