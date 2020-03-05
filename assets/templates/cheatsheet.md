@@ -15,12 +15,11 @@ void test() {
 
 ## Code (iFrame) - Web Editor share
 
-<iframe src=https://create.arduino.cc/editor/judmv/3d046724-2984-4c06-90c3-4b75269ce416/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+[Code snippet](https://create.arduino.cc/editor/judmv/3d046724-2984-4c06-90c3-4b75269ce416/preview?embed)
 
 ## Code (iFrame) - Guide snippets
 
-<iframe src=https://create.arduino.cc/editor/judmv/3d046724-2984-4c06-90c3-4b75269ce416/preview?embed&snippet=L10-L30 style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
-
+[Code snippet](https://create.arduino.cc/editor/judmv/3d046724-2984-4c06-90c3-4b75269ce416/preview?embed&snippet=L10-L30)
 
 ## Links
 With hyperlink: [here the  link text](https://example.com)
