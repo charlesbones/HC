@@ -10,7 +10,7 @@ Before starting, make sure that you have the latest version of the IDE from the 
 > Note: If you are not sure about the bit-width of your operating system you can open a terminal window and use the command uname -a.
 > * If the outcome contains x86, download the 32 bits version.
 > * If the outcome is x64 or x86_x64 download 64 bits version.
-> * If the outcome contains arm please check this table to confirm the version.
+> * If the outcome contains arm please check [this table](https://en.wikipedia.org/wiki/ARM_architecture#Cores) to confirm the version.
 
 Now that you have downloaded the correct version of the IDE, it is time to move on into the installation process. Follow the steps below:
 
