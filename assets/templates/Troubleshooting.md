@@ -17,7 +17,7 @@ What can be done to solve it:
 
 Instructions on how to escalate it to the support team.
 
-##Related content
+## Related content
 
 * Forum thread link(s)
 * Other article(s)
