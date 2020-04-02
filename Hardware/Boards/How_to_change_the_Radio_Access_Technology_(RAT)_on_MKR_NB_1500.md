@@ -6,7 +6,7 @@ The radio module in you MKR NB 1500 can be configured as follows:
 1. Make sure you have the 'MKRNB' library installed. If not, go to Arduino IDE top menu: *Sketch > Include Library > Manage Libraries*, search for *MKRNB* and install.
 2. Go to *File > Examples > MKRNB > Tools > ChooseRadioAccessTechnology*.
 
-![Example location](assets/img/hardware/boards/change-RAT1.png)
+![Example location](/assets/img/hardware/boards/change-RAT1.png)
 
 3. Upload this sketch and open the serial monitor.
 4. Change the baud rate to 115200 
@@ -21,6 +21,6 @@ You can choose among CAT-M1, NB-IoT or a combination of both. Selecting JUST ONE
 | 2 | CAT M1 preferred, NB IoT as failover (default) |
 | 3 | NB IoT preferred, CAT M1 as failover |
 
-![Serial port info](assets/img/hardware/boards/change-RAT2.png)
+![Serial port info](/assets/img/hardware/boards/change-RAT2.png)
 
 
