@@ -35,4 +35,4 @@ You can use a table generator](https://www.tablesgenerator.com/markdown_tables) 
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
-#THE END
+# THE END
