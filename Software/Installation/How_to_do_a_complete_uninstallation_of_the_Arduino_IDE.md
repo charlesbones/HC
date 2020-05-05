@@ -3,7 +3,7 @@
 The Arduino IDE uses files in three locations on your computer:
 
 * IDE installation folder
-* Sketchbook folder. The sketchbook folder location is shown in the Arduino IDE at File > Preferences > Sketchbook location
+* Sketchbook folder. The sketchbook folder location is shown in the Arduino IDE at ```File > Preferences > Sketchbook location```
 * Data folder
   * On Windows
     * Standard IDE: ```C:\Users\{username}\AppData\Local\Arduino15```
