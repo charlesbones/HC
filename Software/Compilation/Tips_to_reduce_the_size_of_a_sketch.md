@@ -1,4 +1,4 @@
-# Tips to reduce the size of my sketch
+# Tips to reduce the size of a sketch
 
 Here are a few tips to cut down the size of the sketch:
 
