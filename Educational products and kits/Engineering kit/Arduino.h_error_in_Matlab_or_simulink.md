@@ -1,3 +1,5 @@
+# Arduino.h error in Matlab or simulink
+
 Firstly, you will need to install  five Add-ons which are used in the Arduino engineering kit projects.
 After installing the 5 Add-ons if you receive a **fatal error: Arduino.h: No such file or directory #include "Arduino.h" ^ compilation terminated** follow the instructions below.
 ## Instructions:
