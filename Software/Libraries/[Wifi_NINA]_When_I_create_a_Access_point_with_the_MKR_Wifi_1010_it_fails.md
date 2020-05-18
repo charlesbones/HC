@@ -1,6 +1,7 @@
 
 # [Wifi NINA] When I create an access point, it fails
 AP_SimpleWebServer is a simple web server to manage a LED with AP features. The boards which support the WiFi Nina library are MKR 1010, UNO WiFi rev2, Nano 33 IoT, and MKR VIDOR 4000.  After Uploading of the  AP_SimpleWebServer sketch under the WiFiNina library(IDE>File>Examples>WiFINina>AP_SimpleWebServer), if the serial monitor shows an error of “Create access point failed”, then follow the guidelines below:
+
 ![](/assets/img/software/libraries/nina_1.png)
 
  
