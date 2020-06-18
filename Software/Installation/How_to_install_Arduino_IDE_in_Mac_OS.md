@@ -1,26 +1,27 @@
 # How to install Arduino IDE in MAC OS
 
-## Description
+This article explains how to install Arduino IDE in Mac OS. In order to properly install Arduino IDE, it is not necessary to have an account with Arduino and it is free for download. Also, the IDE is open to all age groups.
 
-This article is about how to install Arduino IDE in Mac OS. In order to properly install Arduino IDE, it is not necessary to have an account with Arduino and it is free for download. Also, the IDE is open to all age groups.
+## Steps
 
-## Steps:
+1. Go to the [Arduino Website](https://www.arduino.cc), then to Software > Downloads.
+![](/assets/img/software/installation/install_mac1.png)
 
-1. Go to the [Arduino Website](https://www.arduino.cc/), which will take you to the Arduino Homepage.
+2. You will be directed to the download page. You have to look for the Mac OS version of the latest IDE as shown in the picture below.
+![](/assets/img/software/installation/install_mac2.png)
 
-2. Drag your cursor over to software and select the Downloads option.
-   ![Website](/assets/img/software/installation/MacInstall_1.png)
+3. The zip file which includes the install file will be downloaded. 
+![](/assets/img/software/installation/install_mac3.png)
 
-3. You will be directed to the download page. You have to look for the Mac OS version of the latest IDE as shown in the picture below.
-   ![Download](/assets/img/software/installation/MacInstall_2.png)
+4. Extract the file from the zip file.
+![](/assets/img/software/installation/install_mac4.png)
 
-4. The zip file which includes the install file will be downloaded.
-   ![Zip file](/assets/img/software/installation/MacInstall_3.png)
+5. Double click on the file and the verification process will start which will take a few seconds.
 
-5. Extract the file from the zip file.
-   ![Extract](/assets/img/software/installation/MacInstall_4.png)
+6. In the pop-up window select the ‘Open’ option to start working on the Arduino IDE.
+![](/assets/img/software/installation/install_mac5.png)
 
-6. Double click on the file and the verification process will start which will take a few seconds.
 
-7. In the pop-up window select the `Open` option to start working on the Arduino IDE.
-   ![Pop-up](/assets/img/software/installation/MacInstall_5.png)
+
+
+

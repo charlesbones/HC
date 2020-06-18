@@ -5,6 +5,8 @@
 
 ![Gif Title](https://media.giphy.com/media/100QWMdxQJzQC4/giphy.gif)
 
+> Note: images should NOT have blanks in between words or markdown will not recognise it.
+
 ## Code block - md
 
 ```C++
@@ -27,7 +29,7 @@ With hyperlink: [here the  link text](https://example.com)
 Raw url: https://example.com
 
 ## Tables
-You can use a table generator](https://www.tablesgenerator.com/markdown_tables) if that makes it easier. :)
+You can use a [table generator](https://www.tablesgenerator.com/markdown_tables) if that makes it easier. :)
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
