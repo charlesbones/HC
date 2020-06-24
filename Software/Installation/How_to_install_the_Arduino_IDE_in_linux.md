@@ -1,11 +1,12 @@
 # How to install the Arduino IDE in linux
 
-> WARNING!
-> If you use `sudo apt-get install arduino`  you will probably get an extremely outdated and possibly non-standard version of the Arduino IDE. 
+> **WARNING!**
+>
+> If you use `sudo apt-get install arduino`  you will probably get an extremely outdated and possibly non-standard version of the Arduino IDE.
 
 ## Step 0:
 
-Before starting, make sure that you have the latest version of the IDE from the download page. Also, choose the right version according to your setup (32, 64 or ARM). 
+Before starting, make sure that you have the latest version of the IDE from the download page. Also, choose the right version according to your setup (32, 64 or ARM).
 
 > Note: If you are not sure about the bit-width of your operating system you can open a terminal window and use the command uname -a.
 > * If the outcome contains x86, download the 32 bits version.
@@ -35,8 +36,3 @@ Inside the folder you just extracted you will find a file called install.sh, rig
 At the end of this process, you will get the desktop icon and the serial port communication setup.
 
 Additionally, in some cases the desktop icon seems to be broken, however by double clicking and accepting that you trust the application, you will be able to see the Arduino icon on your desktop.
-
-
-
-
-

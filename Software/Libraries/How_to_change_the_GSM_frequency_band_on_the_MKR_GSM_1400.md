@@ -20,18 +20,18 @@ This tutorial will show all different possibilities to choose frequency band and
 
 ### Step 0: Check that you have the basics.
 
-* Make sure you have latest SAMD core. If you don’t, go to Arduino ```IDE > Tools > Board > Boards Manager: search for ‘Arduino SAMD Boards’ > Update/Install ```
-* Make sure you have the latest update of the MKRGSM’ library: Go to Arduino ```IDE > Tools > Library Manager: search for ‘MKRGSM’ > Update/Install```
+* Make sure you have latest SAMD core. If you don’t, go to Arduino `IDE > Tools > Board > Boards Manager: search for ‘Arduino SAMD Boards’ > Update/Install `
+* Make sure you have the latest update of the MKRGSM’ library: Go to Arduino `IDE > Tools > Library Manager: search for ‘MKRGSM’ > Update/Install`
 
 ### Step 1: Upload the Band Manager sketch.
 
-Go to ```Arduino IDE > File > Examples > MKRGSM > Tools: ‘BandManagement’ ``` and upload it.
+Go to `Arduino IDE > File > Examples > MKRGSM > Tools: ‘BandManagement’ ` and upload it.
 
 ![BandManagement Sketch location](/assets/img/software/libraries/change-GSM-1.png)
 
 ### Step 2: Manage the board's band frequency
 
-This sketch, for the MKR GSM 1400 board, checks the band currently configured in the modem and 
+This sketch, for the MKR GSM 1400 board, checks the band currently configured in the modem and
 allows you to change it. Make sure you take note of the current option, you might need to configure
 it back to this one. Just open the serial monitor, the current configuration will show after “Current band”.
 Following, the list of possible options:
@@ -47,8 +47,8 @@ Following, the list of possible options:
 
 ![Band options](/assets/img/software/libraries/change-GSM-2.png)
 
-If you wish to change the band just enter the corresponding number to the option desired 
-in the input box and press ‘Send’. Success message will be printed right after (the process 
+If you wish to change the band just enter the corresponding number to the option desired
+in the input box and press ‘Send’. Success message will be printed right after (the process
 can take up to 3 minutes).
 
 ![Band options](/assets/img/software/libraries/change-GSM-3.png)
@@ -65,4 +65,3 @@ Usual configurations:
 ### Next Steps
 
 Now you have configured the band, get ready and visit [Arduino Project Hub](https://create.arduino.cc/projecthub/search?q=gsm) for inspiration. There are lots of existing projects developed with this board and GSM communication!
-
