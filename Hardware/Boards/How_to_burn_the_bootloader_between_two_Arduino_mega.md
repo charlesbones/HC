@@ -4,10 +4,10 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 
 ## Components required:
 
-* Arduino Mega 2560 - 2 
+* Arduino Mega 2560 - 2
 * Jumper wires - 6
 * USB 2.0 cable - 1
- 
+
 ## Steps to follow:
 
 1. Choose the working board as your programmer.
@@ -18,28 +18,22 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 | 50 - MISO           	| 50 - MISO         	|
 | 51 - MOSI           	| 51- MOSI          	|
 | 52 - SCK            	| 52 - SCK          	|
-| **53 - SS**          | **53 - RESET PIN** |
+| **53 - SS**          | **RESET PIN** |
 
-![Mega-To-Mega](/assets/img/BurnBootloaderBetweenTwoArduinoMega/2.png)
+![Mega-To-Mega connections](/assets/img/hardware/boards/mega-to-mega_connection.png)
 
 3. Open Arduino IDE
 4. Click on *Files > Examples > Arduino ISP*
-5. ArduinoISP program will open.
-6. Make the following changes according to the pin connection.
+6. In the *ArduinoISP* example, make the following changes according to the pin connection.
 
-```C++
-#define RESET 53
-#define PIN_MOSI 51
-#define PIN_MISO 50
-#define PIN_SCK 52
-```
-![code snipet](/assets/img/BurnBootloaderBetweenTwoArduinoMega/1.png)
+[![Code snippet][1]][2]
+
+[1]:  /assets/img/hardware/boards/ArduinoISP_Example.png
+[2]:  https://create.arduino.cc/example/builtin/11.ArduinoISP%5CArduinoISP/ArduinoISP/preview?embed&snippet=L68-L89&hidenumbers#L73,L85-L87 "ArduinoISP example"
+
 
 After changes are made make sure the board selected is mega 2560 and port is selected.
 
 * Upload the code.
-* After uploading the code. Go to tools > Programmer > 'Arduino as ISP'.
+* After uploading the code. Go to `Tools > Programmer > 'Arduino as ISP'`.
 * Go to tools again > press on 'Burn Bootloader'.  (Takes a few minutes to be done.)
-
-
-
