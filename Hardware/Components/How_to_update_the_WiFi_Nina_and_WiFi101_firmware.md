@@ -49,6 +49,7 @@ This are the boards that have a **WiFi101** module:
    ![Example location](/assets/img/hardware/boards/ninaUpdate4.png)
 
 3. Once you select the board make sure you are updating to the latest version by checking under the drop-down option (this shows all the available version of firmware).
+
    ![Example location](/assets/img/hardware/boards/ninaUpdate5.png)
 
 4. Click on *Open Updater Sketch*, then select the board and port under the Tools section. Upload the sketch.
