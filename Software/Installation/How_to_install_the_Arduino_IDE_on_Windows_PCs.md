@@ -16,9 +16,11 @@ In order to go through this tutorial, you will need to download the [latest vers
 
 1. Right click on the downloaded Zip folder and Select "extract all" option, then select the location of the destination folder and confirm the operation on "extract".
 
-   ![ZipFile](/assets/img/software/installation/windows_installer1.png)
-   
-2. Go to the extracted file folder and Rrun the "arduino.exe" application.
+   ![ZipFile extraction 1](/assets/img/software/installation/windows_installer1.png)
+
+   ![ZipFile extraction 2](/assets/img/software/installation/windows_installer2.png)
+
+2. Go to the extracted file folder and run the "arduino.exe" application.
 
 ## Option 3: Windows App
 
@@ -26,8 +28,6 @@ In order to go through this tutorial, you will need to download the [latest vers
 2. Search for Arduino IDE in the search bar.
 3. Click on get.  
 
-   ![App](/assets/img/software/installation/windows_installer2.png)
-   
- 4. Allow access and launch the IDE. 
- 
- 
+   ![App](/assets/img/software/installation/windows_installer3.png)
+
+4. Allow access and launch the IDE.

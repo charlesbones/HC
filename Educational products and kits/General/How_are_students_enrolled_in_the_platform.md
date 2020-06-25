@@ -2,15 +2,15 @@
 
 In Science Kit, CTC GO! and Engineering Kit: from the top menu, navigate to DASHBOARD or CLASS MANAGEMENT.
 
-![dashboard 1](/assets/img/Howarestudentsenrolledintheplatform/1.png)
+![Main platform dashboard](/assets/img/education/General_enrol1.png)
 
 In CTC 101: from the menu to the right, navigate to Classroom Manager
 
-![dashboard 2](/assets/img/Howarestudentsenrolledintheplatform/2.png)
+![CTC101 dashboard](/assets/img/education/General_enrol2.png)
 
 Under students, press > ADD STUDENTS.
 
-![dashboard 3](/assets/img/Howarestudentsenrolledintheplatform/3.png)
+![Student section](/assets/img/education/General_enrol3.png)
 
 Enter the students email addresses in the text field, press ADD, then INVITE.
 
@@ -20,4 +20,3 @@ An invitation email will shortly be sent to the students inboxes containing a li
 * [Engineering Kit](https://create.arduino.cc/edu/courses/course/)
 * [Science Kit](https://physics-lab.arduino.cc/)
 * [CTC 101](https://create.arduino.cc/ctc/101/)
-

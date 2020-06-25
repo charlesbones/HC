@@ -11,6 +11,6 @@ You can easily remove students from your classroom following these instructions:
 3. Select the students you wish to delete
 4. Click on DELETE button as shown in the image below.
 
-![image delete](/assets/img/HowcanIdeletestudentsfrommycurrentplan/1.png)
+  ![Student deletion](/assets/img/online/chromeapp/deleteStudents.png)
 
 If you remove a member they will lose the ability to upload to any Arduino board from their Arduino Chrome app for Education, all the sketches will still be available and students will be able to write and verify the code, save and use the serial monitor.

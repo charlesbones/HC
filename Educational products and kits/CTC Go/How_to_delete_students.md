@@ -8,7 +8,7 @@ If you need to delete pending invitations follow the steps below:
 2. Click on ‘Students’
 3. Scroll down to find ‘Pending Students’
 4. Select the invitations that need to be removed
-5. Click ‘Delete’
+5. Click ‘Delete’.
 
 ![Example location](/assets/img/education/CTCgo_delete1.png)
 

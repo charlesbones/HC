@@ -14,13 +14,12 @@ In the device manager, you can have a maximum of 1 device if using a free create
 2. Sign in to your account.
 3. Select the device you want to delete.
 
-  ![](/assets/img/online/create_deletedevices1.png)
-  
-4. Click on delete 
-  
-  ![](/assets/img/online/create_deletedevices2.png)
-  
+  ![](/assets/img/online/create/deleteDevice1.png)
+
+4. Click on delete
+
+  ![](/assets/img/online/create/deleteDevice2.png)
+
 5. After clicking delete you will be getting a pop up window asking for confirmation, click Delete.
 
-  ![](/assets/img/online/create_deletedevices3.png)
-
+  ![](/assets/img/online/create/deleteDevice3.png)
