@@ -11,7 +11,7 @@ In addition, Arduino Web Editor allows you to import sketches and files in the f
 
 > Note: Make sure your libraries are in a folder called ‘libraries’. Be sure not to mix sketches and libraries in the same folder.
 
-![Import files gif](/assets/img/online/create/ImportFiles.gif)
+![Import files gif](/assets/img/online/create/importFiles.gif)
 
 ## Steps
 1. Find your sketchbook:
@@ -25,7 +25,7 @@ In addition, Arduino Web Editor allows you to import sketches and files in the f
 
   Make a `.zip` pack of your sketchbook, you should obtain a file called `Arduino.zip`. Make sure it is `.zip` format, any other archive formats will not work.
 
-  ![Create ZIP file](/assets/img/online/create/ImportFiles1.jpg)
+  ![Create ZIP file](/assets/img/online/create/importFiles1.jpg)
 
 3. Import your sketchbook to the cloud:
 
@@ -33,7 +33,7 @@ In addition, Arduino Web Editor allows you to import sketches and files in the f
 
   You will now see a file system window, select your `Arduino.zip` pack. Wait for the import process to finish. If your sketchbook is big (containing lots of files), this may take a while.
 
-  ![Import button location](/assets/img/online/create/ImportFiles2.jpg)
+  ![Import button location](/assets/img/online/create/importFiles2.jpg)
 
 4. You are done!
 
@@ -43,4 +43,4 @@ In addition, Arduino Web Editor allows you to import sketches and files in the f
 
  If you have libraries in your sketchbook, another report will tell you those that got successfully imported. If you have existing custom libraries with the same names, it’ll prompt you to overwrite the existing ones. Be sure to proceed with caution!
 
- ![Import report](/assets/img/online/create/ImportFiles3.png)
+ ![Import report](/assets/img/online/create/importFiles3.png)

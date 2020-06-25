@@ -10,6 +10,7 @@ Please follow the steps below to upgrade or downgrade your create maker plan:
 2. Click on “***My Plans***” as shown in the picture below
 
    ![Pofile](/assets/img/online/create/modifyCreate1.png)
+
 3. This will take you to your [Arduino digital store profile](https://store.arduino.cc/digital/subscriptions/plans), where you can change the settings of the two tabs shown: "My Plans" and "Billing".
    * Under  “**My Plans**”, there is an “upgrade plan” button, which upgrades the functionality of online web editor to the Maker plan. If you are already subscribed to the Maker plan service you will see the option of “Switch Plan”, that will downgrade your account to ack to the Free plan.
 

@@ -29,7 +29,9 @@ This article is to show how to connect your Arduino IoT device cloud and get the
 8. Once the board configuration is done, we should set up the new thing.
 9. Select the **ADD Properties** option on the right side of the page.
 10. Inside the properties page, add all the properties required for the project and save it.
+
     ![](/assets/img/online/iot/ifttt_1.png)
+
 11. Click on the Edit sketch option on the top right side corner.
 12. In order to activate the ENV shield, you must add the below code inside the Void setup.
     ```
@@ -46,6 +48,7 @@ This article is to show how to connect your Arduino IoT device cloud and get the
 14. Now, **upload** and **run** the sketch.       
 15. Open the serial monitor and check if it is connected to the internet and also if the values are changing to the given variables.
 16. Once the process is done, click on the IoT cloud tab and go to the dashboard to see the property values.
+
     ![Property dashboard](/assets/img/online/iot/ifttt_3.png)
 
 ### 2 - IFTTT setup:
@@ -53,15 +56,18 @@ This article is to show how to connect your Arduino IoT device cloud and get the
 2. Select the option **if +this** and choose webhooks
 
    ![IFTTT "+This" option](/assets/img/online/iot/ifttt_4.png)
+
 3. Add a trigger inside your webhooks.
 4. Select ‘**receive a web request**´ option and give your event name which should be the same name given to thing in IoT Cloud.
 5. And then create the trigger.
 6. Now, click on **+that**, choose email, enter the details
+
    ![IFTTT "+That" option](/assets/img/online/iot/ifttt_5.png)
 
 7. Enter the received pin and select connect.
 8. In the ‘**complete action field**’ press save creating an applet
 9. Go to my services page, click on **Documentation** on upper right
+
    ![Event trigger information](/assets/img/online/iot/ifttt_6.png)
 
   >**Note**: Inside complete action field ‘eventname’ refers to the thing name to be triggered from IoT, val1 refers to the variable name, val2 refers to the reading or value and val3 refers to the timestamp. And you don’t have to fill it up.

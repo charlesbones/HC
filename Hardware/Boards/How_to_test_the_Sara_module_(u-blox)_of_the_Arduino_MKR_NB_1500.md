@@ -13,11 +13,11 @@ Key points to check before performing the Sara Module test:
 
 ## Steps
 
-1. Go to *File > Examples > MKRNB > Tools > SerialSarapassThrough* and upload the sketch.
+1. Go to `File > Examples > MKRNB > Tools > SerialSarapassThrough` and upload the sketch.
 
   ![Example location](/assets/img/hardware/boards/SaraTest3.png)
 
-2. Open the Serial ,onitor and send the following AT commands in the input box and press SEND.
+2. Open the Serial monitor and send the following AT commands in the input box and press SEND.
    * AT
    * AT+URAT=7                 
    * AT+URAT=8  
