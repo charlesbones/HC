@@ -20,7 +20,7 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 | 52 - SCK            	| 52 - SCK          	|
 | **53 - SS**          | **RESET PIN** |
 
-![Mega-To-Mega connections](/assets/img/hardware/boards/mega-to-mega_connection.png)
+![Mega-To-Mega connection](/assets/img/hardware/boards/mega-to-mega_connection.png)
 
 3. Open Arduino IDE
 4. Click on *Files > Examples > Arduino ISP*
@@ -33,5 +33,5 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 After changes are made make sure the board selected is mega 2560 and port is selected.
 
 * Upload the code.
-* After uploading the code. Go to `Tools > Programmer > 'Arduino as ISP'`.
+* After uploading the code. Go to `Tools > Programmer > Arduino as ISP`.
 * Go to tools again > press on 'Burn Bootloader'.  (Takes a few minutes to be done.)

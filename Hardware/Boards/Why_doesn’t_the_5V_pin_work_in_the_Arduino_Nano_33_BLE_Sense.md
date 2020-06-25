@@ -6,7 +6,7 @@ The 5V pin comes disconnected by default on your NANO 33 BLE SENSE. It has been 
 
 1. You make a solder bridge on the two pads marked as VUSB (image below)
 
-![Example location](/assets/img/hardware/boards/Nano5V1.png)
+  ![Example location](/assets/img/hardware/boards/Nano5V1.png)
 
 2. You power the NANO 33 BLE Sense through the **USB port**.
    If you power the board from the VIN pin, you won’t get any regulated 5V and therefore even if you do the solder bridge, nothing will come out of the 5V pin.
