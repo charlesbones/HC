@@ -21,14 +21,14 @@ Detailed instructions below:
 
   ![ICSP connection](/assets/img/hardware/boards/ICSP_names.png)
 
-  PROGRAMMER (I/O PINS) | TARGET (ICSP)
-  :-:|:-:
-  PIN 10 | ICSP 5
-  PIN 11 | ICSP 4
-  PIN 12 | ICSP 1
-  PIN 13 | ICSP 3
-  5V | ICSP 2
-  GND | ICSP 6
+  |PROGRAMMER (I/O PINS) | TARGET (ICSP) |
+  |:-------------------:|:-----------------:|
+  | PIN 10 | ICSP 5 |
+  | PIN 11 | ICSP 4 |
+  | PIN 12 | ICSP 1 |
+  | PIN 13 | ICSP 3 |
+  | 5V | ICSP 2 |
+  | GND | ICSP 6 |
 
 3. Connect Arduino UNO back to your PC via USB
 4. Click on: `Tools > Burn Bootloader`
