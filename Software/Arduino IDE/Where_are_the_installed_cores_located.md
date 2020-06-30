@@ -1,6 +1,6 @@
 # Where are the installed cores located?
 
-Cores are necessary to make new boards' microcontrollers compatible with your Arduino Software (IDE) and, possibly, the existing sketches and libraries. Starting from the Arduino Software (IDE) version 1.6.2, all Arduino AVR boards are saved inside the ‘Arduino’ installation folder (by default in Windows: C:\Program Files (x86)\Arduino\hardware\arduino\avr). However, newer Arduino boards require an additional core to be installed and are stored in a different folder in your PC. Boards Manager is the preferred tool to add cores to your Arduino Software (IDE) and it is also the best way to check and update the version of installed cores.
+Cores are necessary to make new boards' microcontrollers compatible with your Arduino Software (IDE) and, possibly, the existing sketches and libraries. Starting from the Arduino Software (IDE) version 1.6.2, all Arduino AVR boards are saved inside the ‘Arduino’ installation folder (by default in Windows: `C:\Program Files (x86)\Arduino\hardware\arduino\avr`). However, newer Arduino boards require an additional core to be installed and are stored in a different folder in your PC. Boards Manager is the preferred tool to add cores to your Arduino Software (IDE) and it is also the best way to check and update the version of installed cores.
 
 ![Board manager](/assets/img/software/ide/boardManager.png)
 
