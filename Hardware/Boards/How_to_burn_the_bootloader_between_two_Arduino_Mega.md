@@ -13,21 +13,21 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 1. Choose the working board as your programmer.
 2. Make the connections according to the below table
 
-| Master (Pin number) 	| Slave(Pin number) 	|
-|:-------------------:	|:-----------------:	|
-| 50 - MISO           	| 50 - MISO         	|
-| 51 - MOSI           	| 51- MOSI          	|
-| 52 - SCK            	| 52 - SCK          	|
-| **53 - SS**          | **RESET PIN** |
+  | Master (Pin number) 	| Slave(Pin number) 	|
+  |:-------------------:	|:-----------------:	|
+  | 50 - MISO           	| 50 - MISO         	|
+  | 51 - MOSI           	| 51- MOSI          	|
+  | 52 - SCK            	| 52 - SCK          	|
+  | **53 - SS**          | **RESET PIN** |
 
-![Mega-To-Mega connection](/assets/img/hardware/boards/mega-to-mega_connection.png)
+  ![Mega-To-Mega connection](/assets/img/hardware/boards/mega-to-mega_connection.png)
 
 3. Open Arduino IDE
 4. Click on *Files > Examples > Arduino ISP*
 6. In the *ArduinoISP* example, make the following changes according to the pin connection.
 
-![ArduinoISP example](/assets/img/hardware/boards/ArduinoISP_Example.png)
-[Link to example](https://create.arduino.cc/example/builtin/11.ArduinoISP%5CArduinoISP/ArduinoISP/preview?embed&snippet=L68-L89&hidenumbers#L73,L85-L87)
+  ![ArduinoISP example](/assets/img/hardware/boards/ArduinoISP_Example.png)
+  [Link to example](https://create.arduino.cc/example/builtin/11.ArduinoISP%5CArduinoISP/ArduinoISP/preview?embed&snippet=L68-L89&hidenumbers#L73,L85-L87)
 
 
 After changes are made make sure the board selected is mega 2560 and port is selected.
