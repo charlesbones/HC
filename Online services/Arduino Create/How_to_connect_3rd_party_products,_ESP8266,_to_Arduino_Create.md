@@ -1,4 +1,4 @@
-# How to connect 3rd party products -ESP8266- to Arduino create
+# How to connect 3rd party products, ESP8266, to Arduino create
 
 ## Overview
 
