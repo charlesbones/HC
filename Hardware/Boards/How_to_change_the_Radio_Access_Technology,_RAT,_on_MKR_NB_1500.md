@@ -1,4 +1,4 @@
-# How to change the Radio Access Technology -RAT- on MKR NB 1500
+# How to change the Radio Access Technology, RAT, on MKR NB 1500
 
 It is possible to choose your preferred 4G Narrowband Radio Access Technology (RAT) when connecting our MKR NB 1500 to the mobile IoT Network. By default the 1500 is configured to connect to CAT-M1 as preferred protocol and NB-IoT as failover, however there are other options available.
 
