@@ -19,8 +19,7 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
    | 51 - MOSI           	| 51- MOSI          	|
    | 52 - SCK            	| 52 - SCK          	|
    | **53 - SS**           | **RESET PIN**      |
-   
-   
+      
    ![Mega-To-Mega connections](/assets/img/hardware/boards/mega-to-mega_connection.png)
 
 3. Open Arduino IDE
