@@ -1,4 +1,4 @@
-# How to burn Bootloader to MKR1000 using a programmer
+# How to burn the bootloader to Arduino MKR1000 using a programmer
 
 ## Overview
 
