@@ -1,4 +1,4 @@
-# Which are and how can I use the NANO 33 BLE SENSE built-in sensors
+# Which are and how to use the NANO 33 BLE SENSE built-in sensors
 
 The Nano BLE board has a set of sensors embedded on the top, which gives a lot of options to try ideas without having to generate the circuit to such sensors in a prototyping board.
 The sensor location can be checked in the following image, while the specific model and some other details are addressed later in this same article:

@@ -1,4 +1,4 @@
-# Why doesn’t the 5V pin work in my Nano 33 BLE Sense
+# Why doesn't the 5V pin work in the Arduino Nano 33 BLE Sense
 
 The 5V pin comes disconnected by default on your NANO 33 BLE SENSE. It has been developed this way as a precaution, since previous Arduino boards use 5V I/O signals. This way users will not accidentally damage the board by powering their circuits with 5V instead of 3.3V.
 
