@@ -1,4 +1,4 @@
-# How to cancel the Create Maker Plan.
+# How to cancel the Create Maker Plan
 
 ## Overview
 
