@@ -12,14 +12,14 @@ This is a tutorial that explains how to burn the bootloader using 2 Arduino Mega
 
 1. Choose the working board as your programmer.
 2. Make the connections according to the below table
-   
+
    | Master (Pin number) 	| Slave(Pin number) 	|
    |:-------------------:	|:-----------------:	|
    | 50 - MISO           	| 50 - MISO         	|
    | 51 - MOSI           	| 51- MOSI          	|
    | 52 - SCK            	| 52 - SCK          	|
-   | **53 - SS**           | **RESET PIN**      |
-      
+   | **53 - SS**          | **RESET PIN**      |
+
    ![Mega-To-Mega connections](/assets/img/hardware/boards/mega-to-mega_connection.png)
 
 3. Open Arduino IDE
