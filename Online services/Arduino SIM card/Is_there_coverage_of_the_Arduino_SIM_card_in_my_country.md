@@ -1,4 +1,4 @@
-# [FAQ] Is there coverage of the Arduino SIM card in my country?
+# Is there coverage of the Arduino SIM card in my country?
 
 You can connect to the Arduino IoT cloud from over 100 countries using the Arduino SIM card, enabling you to use your device around the globe.
 
